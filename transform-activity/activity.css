@@ -1,3 +1,5 @@
 main {
-
+    transform: skew(345deg);
+    translate: (-41px);
 }
+nav{}
